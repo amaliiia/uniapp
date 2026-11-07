@@ -1,0 +1,32 @@
+[
+  {
+    "disciplina_id": "mob",
+    "n1": 8.5,
+    "n2": null,
+    "n3": null
+  },
+  {
+    "disciplina_id": "bd",
+    "n1": 7,
+    "n2": 6.5,
+    "n3": null
+  },
+  {
+    "disciplina_id": "es",
+    "n1": 9,
+    "n2": null,
+    "n3": null
+  },
+  {
+    "disciplina_id": "rd",
+    "n1": 5.5,
+    "n2": 7,
+    "n3": null
+  },
+  {
+    "disciplina_id": "est",
+    "n1": 6,
+    "n2": null,
+    "n3": null
+  }
+]

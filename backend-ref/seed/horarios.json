@@ -1,0 +1,62 @@
+[
+  {
+    "dia_semana": "Seg",
+    "hora_inicio": "19:00",
+    "disciplina_id": "mob",
+    "sala": "Lab 3"
+  },
+  {
+    "dia_semana": "Seg",
+    "hora_inicio": "20:50",
+    "disciplina_id": "bd",
+    "sala": "Sala 204"
+  },
+  {
+    "dia_semana": "Ter",
+    "hora_inicio": "19:00",
+    "disciplina_id": "es",
+    "sala": "Sala 210"
+  },
+  {
+    "dia_semana": "Ter",
+    "hora_inicio": "20:50",
+    "disciplina_id": "es",
+    "sala": "Sala 210"
+  },
+  {
+    "dia_semana": "Qua",
+    "hora_inicio": "19:00",
+    "disciplina_id": "rd",
+    "sala": "Lab 1"
+  },
+  {
+    "dia_semana": "Qua",
+    "hora_inicio": "20:50",
+    "disciplina_id": "est",
+    "sala": "Sala 105"
+  },
+  {
+    "dia_semana": "Qui",
+    "hora_inicio": "19:00",
+    "disciplina_id": "bd",
+    "sala": "Lab 2"
+  },
+  {
+    "dia_semana": "Qui",
+    "hora_inicio": "20:50",
+    "disciplina_id": "mob",
+    "sala": "Lab 3"
+  },
+  {
+    "dia_semana": "Sex",
+    "hora_inicio": "19:00",
+    "disciplina_id": "est",
+    "sala": "Sala 105"
+  },
+  {
+    "dia_semana": "Sex",
+    "hora_inicio": "20:50",
+    "disciplina_id": "rd",
+    "sala": "Lab 1"
+  }
+]

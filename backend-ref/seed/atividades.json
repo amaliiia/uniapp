@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "disciplina_id": "mob",
+    "titulo": "Protótipo PWA – Entrega 2",
+    "prazo_texto": "12 nov",
+    "descricao": "Entregar o protótipo navegável com ao menos 5 telas. Formato: ZIP ou PDF com link.",
+    "arquivo_enunciado": "Enunciado_Prototipo.pdf",
+    "status": "Pendente",
+    "arquivo_entregue": null
+  },
+  {
+    "id": 2,
+    "disciplina_id": "bd",
+    "titulo": "Lista 4 – Joins",
+    "prazo_texto": "10 nov",
+    "descricao": "Resolver os 10 exercícios de junção. Entregar em PDF.",
+    "arquivo_enunciado": "Lista4_Joins.pdf",
+    "status": "Pendente",
+    "arquivo_entregue": null
+  },
+  {
+    "id": 3,
+    "disciplina_id": "es",
+    "titulo": "Diagramas UML do projeto",
+    "prazo_texto": "15 nov",
+    "descricao": "Casos de uso e diagrama de classes do sistema da equipe.",
+    "arquivo_enunciado": "Modelo_UML.docx",
+    "status": "Pendente",
+    "arquivo_entregue": null
+  },
+  {
+    "id": 4,
+    "disciplina_id": "rd",
+    "titulo": "Relatório de Laboratório 2",
+    "prazo_texto": "02 nov",
+    "descricao": "Relatório sobre configuração de sub-redes.",
+    "arquivo_enunciado": "Roteiro_Lab2.pdf",
+    "status": "Enviada",
+    "arquivo_entregue": "relatorio_lab2.pdf"
+  }
+]

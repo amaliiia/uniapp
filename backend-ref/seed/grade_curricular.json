@@ -1,0 +1,130 @@
+[
+  {
+    "semestre": 1,
+    "disciplina": "Cálculo I"
+  },
+  {
+    "semestre": 1,
+    "disciplina": "Lógica de Programação"
+  },
+  {
+    "semestre": 1,
+    "disciplina": "Introdução à Computação"
+  },
+  {
+    "semestre": 1,
+    "disciplina": "Inglês Técnico"
+  },
+  {
+    "semestre": 2,
+    "disciplina": "Algoritmos"
+  },
+  {
+    "semestre": 2,
+    "disciplina": "Estruturas de Dados"
+  },
+  {
+    "semestre": 2,
+    "disciplina": "Matemática Discreta"
+  },
+  {
+    "semestre": 2,
+    "disciplina": "Arquitetura de Computadores"
+  },
+  {
+    "semestre": 3,
+    "disciplina": "Programação Orientada a Objetos"
+  },
+  {
+    "semestre": 3,
+    "disciplina": "Sistemas Operacionais"
+  },
+  {
+    "semestre": 3,
+    "disciplina": "Álgebra Linear"
+  },
+  {
+    "semestre": 3,
+    "disciplina": "Metodologia Científica"
+  },
+  {
+    "semestre": 4,
+    "disciplina": "Banco de Dados"
+  },
+  {
+    "semestre": 4,
+    "disciplina": "Engenharia de Software"
+  },
+  {
+    "semestre": 4,
+    "disciplina": "Redes de Computadores"
+  },
+  {
+    "semestre": 4,
+    "disciplina": "Estatística Aplicada"
+  },
+  {
+    "semestre": 4,
+    "disciplina": "Desenvolvimento Mobile"
+  },
+  {
+    "semestre": 5,
+    "disciplina": "Desenvolvimento Web"
+  },
+  {
+    "semestre": 5,
+    "disciplina": "Inteligência Artificial"
+  },
+  {
+    "semestre": 5,
+    "disciplina": "Segurança da Informação"
+  },
+  {
+    "semestre": 5,
+    "disciplina": "Gestão de Projetos"
+  },
+  {
+    "semestre": 6,
+    "disciplina": "Computação em Nuvem"
+  },
+  {
+    "semestre": 6,
+    "disciplina": "Interação Humano-Computador"
+  },
+  {
+    "semestre": 6,
+    "disciplina": "Sistemas Distribuídos"
+  },
+  {
+    "semestre": 6,
+    "disciplina": "Optativa I"
+  },
+  {
+    "semestre": 7,
+    "disciplina": "Estágio Supervisionado I"
+  },
+  {
+    "semestre": 7,
+    "disciplina": "Empreendedorismo"
+  },
+  {
+    "semestre": 7,
+    "disciplina": "Optativa II"
+  },
+  {
+    "semestre": 7,
+    "disciplina": "Projeto Integrador"
+  },
+  {
+    "semestre": 8,
+    "disciplina": "Estágio Supervisionado II"
+  },
+  {
+    "semestre": 8,
+    "disciplina": "Trabalho de Conclusão de Curso"
+  },
+  {
+    "semestre": 8,
+    "disciplina": "Ética e Cidadania"
+  }
+]

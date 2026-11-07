@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mob",
+    "nome": "Desenvolvimento Mobile",
+    "professor": "Prof. Carlos Lima",
+    "cor": "#2563eb"
+  },
+  {
+    "id": "bd",
+    "nome": "Banco de Dados",
+    "professor": "Profa. Ana Souza",
+    "cor": "#16a34a"
+  },
+  {
+    "id": "es",
+    "nome": "Engenharia de Software",
+    "professor": "Prof. Marcos Alves",
+    "cor": "#d97706"
+  },
+  {
+    "id": "rd",
+    "nome": "Redes de Computadores",
+    "professor": "Profa. Júlia Rocha",
+    "cor": "#9333ea"
+  },
+  {
+    "id": "est",
+    "nome": "Estatística Aplicada",
+    "professor": "Prof. Paulo Neri",
+    "cor": "#dc2626"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "atividade": "Monitoria de Algoritmos",
+    "categoria": "Ensino",
+    "horas": 30,
+    "status": "Aprovada",
+    "semestre": "2025.2"
+  },
+  {
+    "id": 2,
+    "atividade": "Semana de Tecnologia 2025",
+    "categoria": "Eventos e cultura",
+    "horas": 20,
+    "status": "Aprovada",
+    "semestre": "2025.2"
+  },
+  {
+    "id": 3,
+    "atividade": "Projeto de extensão: Inclusão Digital",
+    "categoria": "Extensão",
+    "horas": 25,
+    "status": "Aprovada",
+    "semestre": "2026.1"
+  },
+  {
+    "id": 4,
+    "atividade": "Curso de Git e GitHub (online)",
+    "categoria": "Ensino",
+    "horas": 12,
+    "status": "Aprovada",
+    "semestre": "2026.1"
+  },
+  {
+    "id": 5,
+    "atividade": "Iniciação científica (voluntária)",
+    "categoria": "Pesquisa",
+    "horas": 20,
+    "status": "Em análise",
+    "semestre": "2026.2"
+  }
+]

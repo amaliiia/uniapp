@@ -1,0 +1,18 @@
+[
+  {
+    "categoria": "Ensino",
+    "limite_horas": 60
+  },
+  {
+    "categoria": "Pesquisa",
+    "limite_horas": 60
+  },
+  {
+    "categoria": "Extensão",
+    "limite_horas": 60
+  },
+  {
+    "categoria": "Eventos e cultura",
+    "limite_horas": 40
+  }
+]

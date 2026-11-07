@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "disciplina_id": "mob",
+    "tipo": "PDF",
+    "titulo": "Aula 05 – Service Workers.pdf",
+    "tamanho": "1,2 MB"
+  },
+  {
+    "id": 2,
+    "disciplina_id": "mob",
+    "tipo": "PPT",
+    "titulo": "Slides – PWA e Manifest.pptx",
+    "tamanho": "3,4 MB"
+  },
+  {
+    "id": 3,
+    "disciplina_id": "bd",
+    "tipo": "PDF",
+    "titulo": "Aula 08 – Normalização.pdf",
+    "tamanho": "900 KB"
+  },
+  {
+    "id": 4,
+    "disciplina_id": "bd",
+    "tipo": "SQL",
+    "titulo": "Script – Banco Exemplo.sql",
+    "tamanho": "12 KB"
+  },
+  {
+    "id": 5,
+    "disciplina_id": "es",
+    "tipo": "PDF",
+    "titulo": "Guia de Scrum.pdf",
+    "tamanho": "2,1 MB"
+  },
+  {
+    "id": 6,
+    "disciplina_id": "rd",
+    "tipo": "PDF",
+    "titulo": "Lista de Sub-redes.pdf",
+    "tamanho": "600 KB"
+  },
+  {
+    "id": 7,
+    "disciplina_id": "est",
+    "tipo": "XLS",
+    "titulo": "Dataset – Regressão.xlsx",
+    "tamanho": "210 KB"
+  }
+]

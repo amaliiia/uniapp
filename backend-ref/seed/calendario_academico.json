@@ -1,0 +1,56 @@
+[
+  {
+    "inicio": "2026-08-03",
+    "fim": "2026-08-03",
+    "titulo": "Início das aulas",
+    "tipo": "Aula"
+  },
+  {
+    "inicio": "2026-09-07",
+    "fim": "2026-09-07",
+    "titulo": "Feriado: Independência do Brasil",
+    "tipo": "Feriado"
+  },
+  {
+    "inicio": "2026-10-12",
+    "fim": "2026-10-12",
+    "titulo": "Feriado: Nossa Senhora Aparecida",
+    "tipo": "Feriado"
+  },
+  {
+    "inicio": "2026-11-02",
+    "fim": "2026-11-02",
+    "titulo": "Feriado: Finados",
+    "tipo": "Feriado"
+  },
+  {
+    "inicio": "2026-11-09",
+    "fim": "2026-11-13",
+    "titulo": "Período de provas I",
+    "tipo": "Prova"
+  },
+  {
+    "inicio": "2026-11-18",
+    "fim": "2026-11-22",
+    "titulo": "Semana de Tecnologia",
+    "tipo": "Evento"
+  },
+  {
+    "inicio": "2026-11-20",
+    "fim": "2026-11-20",
+    "titulo": "Feriado: Consciência Negra",
+    "tipo": "Feriado"
+  },
+  {
+    "inicio": "2026-11-23",
+    "fim": "2026-11-27",
+    "titulo": "Período de provas II",
+    "tipo": "Prova"
+  },
+  {
+    "inicio": "2026-12-07",
+    "fim": "2026-12-11",
+    "titulo": "Provas finais e encerramento do semestre",
+    "tipo": "Prova"
+  }
+]

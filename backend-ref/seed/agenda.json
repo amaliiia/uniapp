@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "data": "2026-11-09",
+    "titulo": "Prova 1 – Redes",
+    "tipo": "Prova",
+    "disciplina_id": "rd"
+  },
+  {
+    "id": 2,
+    "data": "2026-11-10",
+    "titulo": "Entrega Lista 4 – BD",
+    "tipo": "Atividade",
+    "disciplina_id": "bd"
+  },
+  {
+    "id": 3,
+    "data": "2026-11-12",
+    "titulo": "Entrega Protótipo PWA",
+    "tipo": "Atividade",
+    "disciplina_id": "mob"
+  },
+  {
+    "id": 4,
+    "data": "2026-11-15",
+    "titulo": "Entrega UML",
+    "tipo": "Atividade",
+    "disciplina_id": "es"
+  },
+  {
+    "id": 5,
+    "data": "2026-11-18",
+    "titulo": "Semana de Tecnologia",
+    "tipo": "Evento",
+    "disciplina_id": null
+  },
+  {
+    "id": 6,
+    "data": "2026-11-24",
+    "titulo": "Prova 2 – Banco de Dados",
+    "tipo": "Prova",
+    "disciplina_id": "bd"
+  },
+  {
+    "id": 7,
+    "data": "2026-12-01",
+    "titulo": "Seminário – Eng. Software",
+    "tipo": "Prova",
+    "disciplina_id": "es"
+  }
+]

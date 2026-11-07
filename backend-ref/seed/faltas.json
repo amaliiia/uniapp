@@ -1,0 +1,27 @@
+[
+  {
+    "disciplina_id": "mob",
+    "faltas": 4,
+    "limite": 20
+  },
+  {
+    "disciplina_id": "bd",
+    "faltas": 2,
+    "limite": 20
+  },
+  {
+    "disciplina_id": "es",
+    "faltas": 0,
+    "limite": 20
+  },
+  {
+    "disciplina_id": "rd",
+    "faltas": 6,
+    "limite": 20
+  },
+  {
+    "disciplina_id": "est",
+    "faltas": 9,
+    "limite": 20
+  }
+]

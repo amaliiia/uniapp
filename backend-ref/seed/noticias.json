@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "categoria": "Evento",
+    "titulo": "Semana de Tecnologia 2026 abre inscrições",
+    "resumo": "Palestras, oficinas e hackathon de 18 a 22 de novembro.",
+    "publicado_em_texto": "Hoje"
+  },
+  {
+    "id": 2,
+    "categoria": "Aviso",
+    "titulo": "Calendário de provas finais divulgado",
+    "resumo": "Consulte as datas na aba Agenda e organize seus estudos.",
+    "publicado_em_texto": "Ontem"
+  },
+  {
+    "id": 3,
+    "categoria": "Biblioteca",
+    "titulo": "Novo acervo digital disponível",
+    "resumo": "Mais de 3 mil títulos liberados com o login institucional.",
+    "publicado_em_texto": "03 nov"
+  },
+  {
+    "id": 4,
+    "categoria": "Curso",
+    "titulo": "Coordenação abre vagas para monitoria",
+    "resumo": "Interessados enviam histórico até 14 de novembro.",
+    "publicado_em_texto": "02 nov"
+  }
+]

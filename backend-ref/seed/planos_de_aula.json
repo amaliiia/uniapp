@@ -1,0 +1,92 @@
+[
+  {
+    "disciplina_id": "mob",
+    "ementa": "Desenvolvimento de aplicações móveis, PWA, APIs e usabilidade em dispositivos.",
+    "objetivos": [
+      "Construir interfaces responsivas",
+      "Aplicar PWA e service workers",
+      "Consumir APIs REST"
+    ],
+    "cronograma": [
+      "Fundamentos mobile",
+      "Design responsivo",
+      "PWA e manifest",
+      "Service workers e cache",
+      "Consumo de APIs",
+      "Projeto final"
+    ],
+    "avaliacao": "2 provas (40%) + projeto (60%)"
+  },
+  {
+    "disciplina_id": "bd",
+    "ementa": "Modelagem relacional, SQL, normalização e transações.",
+    "objetivos": [
+      "Modelar com DER",
+      "Escrever consultas SQL",
+      "Normalizar tabelas"
+    ],
+    "cronograma": [
+      "Modelo relacional",
+      "DER",
+      "SQL básico",
+      "Joins e subconsultas",
+      "Normalização",
+      "Transações"
+    ],
+    "avaliacao": "2 provas (70%) + listas (30%)"
+  },
+  {
+    "disciplina_id": "es",
+    "ementa": "Processos de software, requisitos, UML, testes e metodologias ágeis.",
+    "objetivos": [
+      "Levantar requisitos",
+      "Modelar com UML",
+      "Aplicar Scrum"
+    ],
+    "cronograma": [
+      "Ciclo de vida",
+      "Requisitos",
+      "UML",
+      "Ágil e Scrum",
+      "Testes",
+      "Entrega"
+    ],
+    "avaliacao": "Prova (50%) + seminário (50%)"
+  },
+  {
+    "disciplina_id": "rd",
+    "ementa": "Modelo OSI/TCP-IP, endereçamento, roteamento e protocolos.",
+    "objetivos": [
+      "Entender camadas",
+      "Configurar sub-redes",
+      "Analisar tráfego"
+    ],
+    "cronograma": [
+      "Camadas",
+      "Endereçamento IP",
+      "Sub-redes",
+      "Roteamento",
+      "Transporte",
+      "Aplicação"
+    ],
+    "avaliacao": "2 provas (80%) + laboratório (20%)"
+  },
+  {
+    "disciplina_id": "est",
+    "ementa": "Estatística descritiva, probabilidade, inferência e regressão.",
+    "objetivos": [
+      "Interpretar dados",
+      "Calcular probabilidades",
+      "Aplicar regressão"
+    ],
+    "cronograma": [
+      "Descritiva",
+      "Probabilidade",
+      "Distribuições",
+      "Inferência",
+      "Testes",
+      "Regressão"
+    ],
+    "avaliacao": "3 avaliações com pesos iguais"
+  }
+]

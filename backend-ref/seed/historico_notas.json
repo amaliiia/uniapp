@@ -1,0 +1,121 @@
+[
+  {
+    "semestre_letivo": "2025.1",
+    "rotulo": "1º semestre",
+    "disciplina": "Cálculo I",
+    "n1": 8,
+    "n2": 7.5
+  },
+  {
+    "semestre_letivo": "2025.1",
+    "rotulo": "1º semestre",
+    "disciplina": "Lógica de Programação",
+    "n1": 9,
+    "n2": 8.5
+  },
+  {
+    "semestre_letivo": "2025.1",
+    "rotulo": "1º semestre",
+    "disciplina": "Introdução à Computação",
+    "n1": 7.5,
+    "n2": 7
+  },
+  {
+    "semestre_letivo": "2025.1",
+    "rotulo": "1º semestre",
+    "disciplina": "Inglês Técnico",
+    "n1": 9.5,
+    "n2": 9
+  },
+  {
+    "semestre_letivo": "2025.2",
+    "rotulo": "2º semestre",
+    "disciplina": "Algoritmos",
+    "n1": 7.5,
+    "n2": 8
+  },
+  {
+    "semestre_letivo": "2025.2",
+    "rotulo": "2º semestre",
+    "disciplina": "Estruturas de Dados",
+    "n1": 6.5,
+    "n2": 7.5
+  },
+  {
+    "semestre_letivo": "2025.2",
+    "rotulo": "2º semestre",
+    "disciplina": "Matemática Discreta",
+    "n1": 8,
+    "n2": 7
+  },
+  {
+    "semestre_letivo": "2025.2",
+    "rotulo": "2º semestre",
+    "disciplina": "Arquitetura de Computadores",
+    "n1": 7,
+    "n2": 7.5
+  },
+  {
+    "semestre_letivo": "2026.1",
+    "rotulo": "3º semestre",
+    "disciplina": "Programação Orientada a Objetos",
+    "n1": 8.5,
+    "n2": 9
+  },
+  {
+    "semestre_letivo": "2026.1",
+    "rotulo": "3º semestre",
+    "disciplina": "Sistemas Operacionais",
+    "n1": 7.5,
+    "n2": 7
+  },
+  {
+    "semestre_letivo": "2026.1",
+    "rotulo": "3º semestre",
+    "disciplina": "Álgebra Linear",
+    "n1": 7,
+    "n2": 7.5
+  },
+  {
+    "semestre_letivo": "2026.1",
+    "rotulo": "3º semestre",
+    "disciplina": "Metodologia Científica",
+    "n1": 9,
+    "n2": 8
+  },
+  {
+    "semestre_letivo": "2026.2",
+    "rotulo": "4º semestre",
+    "disciplina": "Desenvolvimento Mobile",
+    "n1": 8.5,
+    "n2": null
+  },
+  {
+    "semestre_letivo": "2026.2",
+    "rotulo": "4º semestre",
+    "disciplina": "Banco de Dados",
+    "n1": 7,
+    "n2": 6.5
+  },
+  {
+    "semestre_letivo": "2026.2",
+    "rotulo": "4º semestre",
+    "disciplina": "Engenharia de Software",
+    "n1": 9,
+    "n2": null
+  },
+  {
+    "semestre_letivo": "2026.2",
+    "rotulo": "4º semestre",
+    "disciplina": "Redes de Computadores",
+    "n1": 5.5,
+    "n2": 7
+  },
+  {
+    "semestre_letivo": "2026.2",
+    "rotulo": "4º semestre",
+    "disciplina": "Estatística Aplicada",
+    "n1": 6,
+    "n2": null
+  }
+]
