@@ -5,6 +5,19 @@ import { useAuth } from '../hooks/useAuth'
 export default function Perfil() {
     const { sair } = useAuth()
     const aluno = useLiveQuery(() => db.perfil.toCollection().first())
+    const pendentes = useLiveQuery(() => db.outbox.count()) ?? 0
+
+    function confirmarSaida() {
+        if (
+            pendentes > 0 &&
+            !window.confirm(
+                `Você tem ${pendentes} ${pendentes === 1 ? 'envio' : 'envios'} na fila. Se sair agora, ${pendentes === 1 ? 'ele será perdido' : 'eles serão perdidos'
+                }. Sair mesmo assim?`
+            )
+        )
+            return
+        void sair()
+    }
 
     return (
         <div className="p-4">
@@ -16,7 +29,7 @@ export default function Perfil() {
                     <p className="text-sm text-slate-600">{aluno.email}</p>
                 </div>
             )}
-            <button onClick={sair} className="w-full rounded-xl bg-red-600 p-3 font-bold text-white">
+            <button onClick={confirmarSaida} className="w-full rounded-xl bg-red-600 p-3 font-bold text-white">
                 Sair
             </button>
         </div>

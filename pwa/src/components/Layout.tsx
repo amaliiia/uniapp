@@ -5,6 +5,7 @@ import { useAuth } from '../hooks/useAuth'
 import { useOnline } from '../hooks/useOnline'
 import { db } from '../lib/db'
 import { sincronizar } from '../lib/sync'
+import { processarOutbox } from '../lib/entregas'
 import BottomNav from './BottomNav'
 
 const fmt = (iso: string) =>
@@ -24,10 +25,12 @@ export default function Layout() {
     // undefined = carregando | null = não existe
     const dono = useLiveQuery(async () => (await db.meta.get('user_id'))?.valor ?? null)
     const ultima = useLiveQuery(async () => (await db.meta.get('ultima_sync'))?.valor ?? null)
+    const pendentes = useLiveQuery(() => db.outbox.count()) ?? 0
     const userId = session?.user.id
 
     const atualizar = useCallback(async () => {
         setSincronizando(true)
+        await processarOutbox() // envia o que ficou na fila
         setErroSync(await sincronizar())
         setSincronizando(false)
     }, [])
@@ -54,6 +57,9 @@ export default function Layout() {
     } else if (erroSync) {
         status = 'Não foi possível atualizar. Mostrando dados salvos.'
         cor = 'bg-red-100 text-red-700'
+    }
+    if (pendentes > 0) {
+        status += ` · ${pendentes} ${pendentes === 1 ? 'envio na fila' : 'envios na fila'}`
     }
 
     return (
